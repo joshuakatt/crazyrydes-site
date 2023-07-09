@@ -3,6 +3,8 @@ Serverless web application using AWS Lambda, Amazon API Gateway, Amazon DynamoDB
 
 This project is a serverless web application built using various AWS services including AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito. It provides a scalable and secure solution for building web applications without the need to manage servers.
 
+Check out my latest deployment: [here](https://main.d2q18ar67ok6wr.amplifyapp.com/)
+
 ## Features
 
 - **Serverless Backend**: The backend of this application is built using AWS Lambda and Amazon API Gateway, allowing for automatic scaling and reduced operational overhead.
