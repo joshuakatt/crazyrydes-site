@@ -20,4 +20,4 @@ To get started with this serverless web application, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/serverless-web-app.git
+   git clone https://github.com/joshuakatt/crazyrydes-site.git
